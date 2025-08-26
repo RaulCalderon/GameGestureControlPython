@@ -26,6 +26,7 @@ pip install opencv-python numpy vgamepad
 - Game control on emulators through computer vision.
 - Control automation using the object detection.
 - Educational projects using computer vision.
+- **Originally developed and tested with racing games on emulators**
 
 ## Legal Notes
 This project is a personal computer vision experiment.
